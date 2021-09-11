@@ -37,7 +37,7 @@ const listWidget = (function () {
   let category = 'all';
   return {
     url: 'http://api.openweathermap.org/data/2.5/weather?q=',
-    apiKey: "ce942566ad361692088b80001c71f772", // Replace "APIKEY" with your own API key; otherwise, your HTTP request will not work
+    apiKey: "API", // Replace "APIKEY" with your own API key; otherwise, your HTTP request will not work
     updateActivityList: function (event) {
       if (event !== undefined && event.target.classList.contains('selected')) {
         return true;
