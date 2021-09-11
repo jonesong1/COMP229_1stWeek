@@ -1,2 +1,3 @@
-[README.md](https://github.com/jonesong1/COMP229_1stWeek/files/7147089/README.md)
 # COMP229_1stWeek
+
+Exercise 1: Javascript ES6 from https://www.linkedin.com/learning/javascript-classes-2/next-steps?u=2167290
